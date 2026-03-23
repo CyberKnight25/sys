@@ -1,4 +1,6 @@
 # Power-Aware INT8 Systolic Array Accelerator
+CH.EN.U4ECE24020 - HITESH KUMAR MP
+CH.EN.U4ECE24059 - SRI HARSHA K
 
 
 
